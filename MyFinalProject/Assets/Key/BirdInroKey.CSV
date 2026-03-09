@@ -1,0 +1,72 @@
+﻿Key,English,Chinese
+RollDice,,投掷骰子
+Main,,主力
+UseMoney,,花钱
+Choose_Scout/Total,,选择 侦察/主力部队
+Tutorial_RealWorldBoardStory,(You can listen to the sounds of another world here...),
+Tutorial_GameWorldBoardStory,(You can listen to the sounds of birds here...),
+NowMove!,,开始行动！
+Pray,,祈祷
+CoinsChangeValue,"Click coins to change <color=red>Dice Value</color>.
+<color=red>(Click to close)</color>",
+PrayWeather,,占卜天气
+ChangeOneProbability,Change One Probability,调整一次概率
+Tutorial_Intro1,"""My child, possessing the ability to communicate with God, you are destined to be the next Bird King. Leading the flocks in migration is a responsibility you cannot avoid.""
+
+""But God is always unpredictable, and I rarely get the results I want. I'm afraid...""
+
+""Don't be afraid, let me teach you how to do it one more time...""",
+StartLearning,Start Learning !,
+10Coins,+ 10 Coins,
+ChangeOneValue,Change one Value,改变一个值
+Tutorial_IntroEnd,"Tutorial Completed!
+<color=red>Click Here: Begin Your Journey. </color>",
+CheckDiceAgain.,"Check Dice again.
+<color=red>(Click to Close) </color>",
+Tutorial_SafeReward,"Safe! Click get 2 Rewards: 
+<color=red>10 Coins
+1 Dice Probability Change</color>.
+<color=red>(Click to close)</color>",
+Tutorial_PreparationStage,"Preparation Stage:
+1. Click <color=red>4 </color>to pray for good weather.
+2. Click  <color=red>5 </color> to select the number of scouts/total for this round. 
+3. Click <color=red> 6 </color>to start moving!
+<color=red>(Click to close)</color>",
+Tutorial_ClickDiceImage,"<color=red>Click Dice Image</color> to view your environment.
+<color=red>(Click to close)</color>",
+Tutorial_Calculating,"Calculating...
+<color=red>(Click to close)</color>",
+Disaster,Disaster,
+Hunted,Hunted,
+Weather,Weather,
+Button,Button,
+NextTurn,"Next
+Turn",下一回合
+Tutorial_CurrentInfluence,"This is your current influence. 
+<color=red>(Click to close)</color>",
+Tutorial_MoveStage,"Move Stage:
+<color=green>Move Mouse</color> to see where you can go. 
+<color=green>Green tiles</color> are accessible, <color=red>red tiles</color> are inaccessible.
+  <color=green>Forest </color> are <color=green>safe </color>areas.
+  <color=yellow>City</color> are <color=yellow>adventure </color>areas.
+  <color=red>No landing in deserts/mountains. </color>
+  but <color=green>Mountains can be crossed</color>.
+Now Click the green tile to move !
+<color=red>(Click to close after viewing)</color>",
+Tutorial_EndMove,"End Move:
+Click <color=red>""8""</color> to end move.
+<color=red>(Click to close)</color>",
+Tutorial_StoryProgress,"Click to see StoryProgress:
+<color=red>Red indicates</color> means new Progress.
+<color=red>All Progress Unlocked! Game Over! You Win!
+<color=red>(Click to See)</color>",
+Tutorial_Intro2,"""Come on, you've learned it, it's time to go.""
+
+""Aren't you coming with me?""
+
+""I'm too old... But I'll pray for you here, and for the flock of birds, wishing you a safe journey...""
+
+""...Alright, then I'm off.""
+
+You flapped your wings, looked back reluctantly, and finally mustered your courage, flying into the distance...",
+PrayForGod,Pray for God,向上帝祈祷
